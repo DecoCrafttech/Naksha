@@ -109,7 +109,7 @@ START: Hero CSS
             font-size: 50px;
         }
         &:before{
-            background: linear-gradient(270deg, #3F5AF3 0%, transparent 100%);
+            background: linear-gradient(270deg, #ef9c13 0%, transparent 100%);
             content: "";
             width: 100%;
             height: 76%;
@@ -152,7 +152,7 @@ START: Hero CSS
             @include transition(all 0.3s ease-in-out);
         }
         &:before{
-            background-color: #3F5AF3;
+            background-color: #ef9c13;
             mix-blend-mode: multiply;
             content: "";
             width: 170px;
